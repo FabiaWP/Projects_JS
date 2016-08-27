@@ -22,11 +22,6 @@ function enqueue_scripts_2() {
 $post = isset($_GET['post']) ? $_GET['post'] : false;  // trovo l'id
 
 
-
-echo ' casososososos';
-$a=2;
-var_export($a);
-
 if($post) {
 
 
